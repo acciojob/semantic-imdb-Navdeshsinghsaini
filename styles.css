@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.moviename{
+    display: inline;
+}
+.nav {
+    display: inline;
+    padding: 10px;
+}
+.srk {
+    width: 35%;
+   
+}
+.kajol {
+    width: 25%;
+}
+
+.main{
+    text-align: center;
+    background-color: lightgrey;
+}
+#qoute{
+    margin: 30px;
+    background-color: darkkhaki;
+}
